@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             groupBox1 = new GroupBox();
+            label14 = new Label();
             tbInputId = new TextBox();
             tbInputScore = new TextBox();
             tbInputName = new TextBox();
@@ -54,7 +55,6 @@
             label11 = new Label();
             label12 = new Label();
             label13 = new Label();
-            label14 = new Label();
             label15 = new Label();
             label16 = new Label();
             label17 = new Label();
@@ -80,6 +80,14 @@
             groupBox1.TabStop = false;
             groupBox1.Text = "groupBox1";
             // 
+            // label14
+            // 
+            label14.AutoSize = true;
+            label14.Location = new Point(94, 86);
+            label14.Name = "label14";
+            label14.Size = new Size(0, 15);
+            label14.TabIndex = 7;
+            // 
             // tbInputId
             // 
             tbInputId.Location = new Point(86, 44);
@@ -94,6 +102,7 @@
             tbInputScore.Name = "tbInputScore";
             tbInputScore.Size = new Size(100, 23);
             tbInputScore.TabIndex = 5;
+            tbInputScore.TextChanged += tbInputScore_TextChanged;
             // 
             // tbInputName
             // 
@@ -204,6 +213,7 @@
             allsum.Name = "allsum";
             allsum.Size = new Size(100, 23);
             allsum.TabIndex = 14;
+            allsum.TextChanged += allsum_TextChanged;
             // 
             // tbscoremin
             // 
@@ -304,14 +314,6 @@
             label13.Size = new Size(97, 15);
             label13.TabIndex = 10;
             label13.Text = "นายรณกฤต สาแก้ว ";
-            // 
-            // label14
-            // 
-            label14.AutoSize = true;
-            label14.Location = new Point(94, 86);
-            label14.Name = "label14";
-            label14.Size = new Size(0, 15);
-            label14.TabIndex = 7;
             // 
             // label15
             // 

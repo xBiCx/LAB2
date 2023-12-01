@@ -3,6 +3,7 @@ namespace LAB2
     public partial class Form1 : Form
     {
         int arrayIndex = 0;
+        int arraySum = 0;
         //create array
         string[] arrName = new string[1000];
         string[] arrID = new string[1000];
@@ -33,6 +34,7 @@ namespace LAB2
             arrScore[arrayIndex] = int.Parse(inputScore);
             //index
             arrayIndex++;
+            arraySum += int.Parse(inputScore);
             tbInputId.Text = "";
             tbInputName.Text = "";
             tbInputScore.Text = "";
@@ -67,7 +69,7 @@ namespace LAB2
                 tbscoremin.Text = inputScore;
 
             }
-            double sum = (maxNumber / arrayIndex);
+            double sum = (arraySum / arrayIndex);
             allsum.Text = sum.ToString();
         }
 
@@ -92,6 +94,16 @@ namespace LAB2
         }
 
         private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void allsum_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbInputScore_TextChanged(object sender, EventArgs e)
         {
 
         }
