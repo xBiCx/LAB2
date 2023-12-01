@@ -1,0 +1,16 @@
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\LAB2.Form1.resources
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\LAB2.csproj.GenerateResource.cache
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\LAB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\LAB2.AssemblyInfoInputs.cache
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\LAB2.AssemblyInfo.cs
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\LAB2.csproj.CoreCompileInputs.cache
+D:\vs-code\LAB2\LAB2\bin\Debug\net8.0-windows\LAB2.exe
+D:\vs-code\LAB2\LAB2\bin\Debug\net8.0-windows\LAB2.deps.json
+D:\vs-code\LAB2\LAB2\bin\Debug\net8.0-windows\LAB2.runtimeconfig.json
+D:\vs-code\LAB2\LAB2\bin\Debug\net8.0-windows\LAB2.dll
+D:\vs-code\LAB2\LAB2\bin\Debug\net8.0-windows\LAB2.pdb
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\LAB2.dll
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\refint\LAB2.dll
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\LAB2.pdb
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\LAB2.genruntimeconfig.cache
+D:\vs-code\LAB2\LAB2\obj\Debug\net8.0-windows\ref\LAB2.dll
